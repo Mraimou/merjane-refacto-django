@@ -1,4 +1,4 @@
-# Merjane Django Refactoring Challenge
+# Merjane Django Refactoring Challenge #
 
 ## Prerequisites
 - Python 3.10+
